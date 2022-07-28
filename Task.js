@@ -1,5 +1,3 @@
-document.write("ODEKHIAN GRACE OLUWAFUNMILAYO");
-document.write("<br>");
-document.write("5ft5");
-document.write("<br>");
-document.write("Nigeria");
+alert('ODEKHIAN GRACE OLUWAFUNMILAYO');
+alert('5ft5');
+alert('Nigeria');
